@@ -18,7 +18,7 @@ interface IFetchHotelsSaga {
 export const fetchHotelsSaga = async (params: IFetchHotelsSaga) => {
     const headers = {'Content-Type': 'application/json, text/plain, */*'}
     //const signature = md5( `${API_TOKEN}:${API_MARKER}:${Object.values(params).toString().replaceAll(',', ':')}`)
-    const {data} = await axios.get('http://engine.hotellook.com/api/v2/cache.json', {params, headers})
+    const {data} = await axios.get('https://engine.hotellook.com/api/v2/cache.json', {params, headers})
     return data
 }
 
