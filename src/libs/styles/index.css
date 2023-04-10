@@ -1,0 +1,163 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    font-family: 'Roboto', sans-serif;
+    color: #424242;
+    margin: 0;
+    padding: 0;
+    background-color: #F4F4F4;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.paper {
+    background: #FFFFFF;
+    box-shadow: 0 4px 33px rgba(0, 0, 0, 0.04);
+    border-radius: 16px;
+}
+
+.container {
+    width: 1048px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.header1 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 2rem;
+    line-height: 2.375rem;
+}
+
+.header2 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.5rem;
+    line-height: 1.75rem;
+}
+
+.text1 {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 22px;
+    letter-spacing: -0.408px;
+}
+
+.text2 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: -0.408px;
+    color: #878787
+}
+
+.text3 {
+    font-weight: 300;
+    font-size: 11px;
+    line-height: 22px;
+    letter-spacing: -0.408px;
+    color: #878787
+}
+
+.text-price {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 22px;
+    text-align: right;
+    letter-spacing: -0.408px;
+}
+
+.text-date {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+}
+
+
+.c-primary {
+    color: #41522E
+}
+
+.c-yellow {
+    color: #CDBC1E
+}
+
+.c-red {
+    color: #E55858
+}
+
+.c-white {
+    color: #FFF
+}
+
+.ant-rate {
+    font-size: 15px !important;
+    line-height: 100% !important;
+    height: 17px;
+}
+
+.ant-rate-star {
+    margin-inline-end: 4px !important;
+}
+
+.hotel-list-item {
+    border-top: 1px solid #87878722;
+}
+
+.input-with-label {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+}
+
+.btn-main {
+    padding: 7px;
+    height: 50px;
+    background: linear-gradient(104.34deg, #41522E -15.34%, #BE8022 145.95%);
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    color: #FFF;
+    font-size: 16px;
+    line-height: 20px;
+    width: 100%;
+}
+
+.btn-main:hover {
+    border-color: transparent !important;
+    color: #FFF !important;
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)), linear-gradient(104.34deg, #41522E -15.34%, #BE8022 145.95%);
+}
+
+.ant-input, .ant-input-number, .ant-picker {
+    border-radius: 4px !important;
+    width: 100%;
+    font-size: 16px !important;
+}
+
+.ant-input, .ant-input-number-input {
+    height: 50px !important;
+    font-size: 16px !important;
+}
+
+.ant-picker-input > input {
+    height: 40px !important;
+    font-size: 16px !important;
+}
+
+.weight-500{
+    font-weight: 500;
+}
+
+.bg-cover{
+    background-size: cover !important;
+}

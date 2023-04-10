@@ -1,0 +1,40 @@
+.root{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 4px 8px;
+  gap: 4px;
+  background: #FFFFFF;
+  border: 1px solid #E5E5E5;
+  border-radius: 4px;
+  cursor: pointer;
+  transition-duration: .3s;
+
+  &:hover{
+    border-color: #41522E;
+  }
+}
+
+.title{
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: -0.408px;
+  color: #99A0A3;
+}
+
+.arrows{
+  color: #99A0A3;
+  width: 18px;
+  height: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  align-items: center;
+  justify-content: center;
+}
+
+.active{
+  color: #41522E;
+  border-color: #41522E;
+}

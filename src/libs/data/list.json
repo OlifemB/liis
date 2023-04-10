@@ -1,0 +1,277 @@
+{
+  "status": "ok",
+  "results": {
+    "locations": [
+      {
+        "fullName": "Moscow, Russia",
+        "iata": [
+          "MOW",
+          "SVO",
+          "ZIA",
+          "DME",
+          "VKO"
+        ],
+        "countryCode": "RU",
+        "location": {
+          "lon": "37.617508",
+          "lat": "55.752041"
+        },
+        "hotelsCount": "2496",
+        "id": "12153",
+        "countryName": "Russia",
+        "_score": 2496,
+        "cityName": "Moscow"
+      },
+      {
+        "fullName": "Moscow, Idaho, United States",
+        "iata": [],
+        "countryCode": "US",
+        "location": {
+          "lon": "-117.000165",
+          "lat": "46.732388"
+        },
+        "hotelsCount": "16",
+        "id": "18335",
+        "countryName": "United States",
+        "_score": 16,
+        "cityName": "Moscow"
+      },
+      {
+        "fullName": "Mosonmagyarovar, Hungary",
+        "iata": [],
+        "countryCode": "HU",
+        "location": {
+          "lon": "17.26994",
+          "lat": "47.86788"
+        },
+        "hotelsCount": "89",
+        "id": "1362",
+        "countryName": "Hungary",
+        "_score": 89,
+        "cityName": "Mosonmagyarovar"
+      },
+      {
+        "fullName": "Morrow, Georgia, United States",
+        "iata": [],
+        "countryCode": "US",
+        "location": {
+          "lon": "-84.339368",
+          "lat": "33.583166"
+        },
+        "hotelsCount": "72",
+        "id": "18126",
+        "countryName": "United States",
+        "_score": 72,
+        "cityName": "Morrow"
+      },
+      {
+        "fullName": "Mossoro, Brazil",
+        "iata": [
+          "MVF"
+        ],
+        "countryCode": "BR",
+        "location": {
+          "lon": "-37.34417",
+          "lat": "-5.1875"
+        },
+        "hotelsCount": "71",
+        "id": "1467172",
+        "countryName": "Brazil",
+        "_score": 71,
+        "cityName": "Mossoro"
+      },
+      {
+        "fullName": "Moscari, Selva, Mallorca Island, Balearic Islands, Spain",
+        "iata": [],
+        "countryCode": "ES",
+        "location": {
+          "lon": "2.93627",
+          "lat": "39.76482"
+        },
+        "hotelsCount": "70",
+        "id": "24735",
+        "countryName": "Spain",
+        "_score": 70,
+        "cityName": "Moscari"
+      },
+      {
+        "fullName": "Mascot, Australia",
+        "iata": [],
+        "countryCode": "AU",
+        "location": {
+          "lon": "151.2",
+          "lat": "-33.93333"
+        },
+        "hotelsCount": "67",
+        "id": "5429",
+        "countryName": "Australia",
+        "_score": 67,
+        "cityName": "Mascot"
+      },
+      {
+        "fullName": "Moskovskiy, Russia",
+        "iata": [],
+        "countryCode": "RU",
+        "location": {
+          "lon": "37.35495",
+          "lat": "55.59911"
+        },
+        "hotelsCount": "55",
+        "id": "1520166",
+        "countryName": "Russia",
+        "_score": 55,
+        "cityName": "Moskovskiy"
+      },
+      {
+        "fullName": "Moncoutant, France",
+        "iata": [],
+        "countryCode": "FR",
+        "location": {
+          "lon": "-0.58797",
+          "lat": "46.72547"
+        },
+        "hotelsCount": "55",
+        "id": "15366",
+        "countryName": "France",
+        "_score": 55,
+        "cityName": "Moncoutant"
+      },
+      {
+        "fullName": "Vico Morcote, Switzerland",
+        "iata": [],
+        "countryCode": "CH",
+        "location": {
+          "lon": "8.924675",
+          "lat": "45.93002"
+        },
+        "hotelsCount": "53",
+        "id": "11974",
+        "countryName": "Switzerland",
+        "_score": 53,
+        "cityName": "Vico Morcote"
+      }
+    ],
+    "hotels": [
+      {
+        "fullName": "AZIMUT Hotel Olympic Moscow, Moscow, Russia",
+        "locationId": 12153,
+        "label": "AZIMUT Hotel Olympic Moscow",
+        "locationName": "Moscow, Russia",
+        "id": "333526",
+        "_score": 852043.0,
+        "location": {
+          "lon": 37.62397,
+          "lat": 55.78507
+        }
+      },
+      {
+        "fullName": "Moscow Marriott Grand Hotel, Moscow, Russia",
+        "locationId": 12153,
+        "label": "Moscow Marriott Grand Hotel",
+        "locationName": "Moscow, Russia",
+        "id": "333578",
+        "_score": 749277.0,
+        "location": {
+          "lon": 37.59966,
+          "lat": 55.76847
+        }
+      },
+      {
+        "fullName": "Moscow Marriott Tverskaya Hotel, Moscow, Russia",
+        "locationId": 12153,
+        "label": "Moscow Marriott Tverskaya Hotel",
+        "locationName": "Moscow, Russia",
+        "id": "333600",
+        "_score": 524656.0,
+        "location": {
+          "lon": 37.58685,
+          "lat": 55.77597
+        }
+      },
+      {
+        "fullName": "Moscow Hotel, St. Petersburg, Russia",
+        "locationId": 12196,
+        "label": "Moscow Hotel",
+        "locationName": "St. Petersburg, Russia",
+        "id": "714387",
+        "_score": 490501.0,
+        "location": {
+          "lon": 30.3866,
+          "lat": 59.92452
+        }
+      },
+      {
+        "fullName": "Courtyard by Marriott Moscow City Center, Moscow, Russia",
+        "locationId": 12153,
+        "label": "Courtyard by Marriott Moscow City Center",
+        "locationName": "Moscow, Russia",
+        "id": "333579",
+        "_score": 480267.0,
+        "location": {
+          "lon": 37.60415,
+          "lat": 55.75799
+        }
+      },
+      {
+        "fullName": "Marriott Moscow Hotel Novy Arbat, Moscow, Russia",
+        "locationId": 12153,
+        "label": "Marriott Moscow Hotel Novy Arbat",
+        "locationName": "Moscow, Russia",
+        "id": "29844226",
+        "_score": 442188.0,
+        "location": {
+          "lon": 37.58072,
+          "lat": 55.7531
+        }
+      },
+      {
+        "fullName": "Moscow Marriott Royal Aurora, Moscow, Russia",
+        "locationId": 12153,
+        "label": "Moscow Marriott Royal Aurora",
+        "locationName": "Moscow, Russia",
+        "id": "333589",
+        "_score": 420203.0,
+        "location": {
+          "lon": 37.617224,
+          "lat": 55.762998
+        }
+      },
+      {
+        "fullName": "Moscow House, Sukhumi, Abkhazia",
+        "locationId": 1465235,
+        "label": "Moscow House",
+        "locationName": "Sukhumi, Abkhazia",
+        "id": "1899378835",
+        "_score": 404148.0,
+        "location": {
+          "lon": 41.01352,
+          "lat": 43.00095
+        }
+      },
+      {
+        "fullName": "The St. Regis Moscow Nikolskaya, Moscow, Russia",
+        "locationId": 12153,
+        "label": "The St. Regis Moscow Nikolskaya",
+        "locationName": "Moscow, Russia",
+        "id": "612280",
+        "_score": 352476.0,
+        "location": {
+          "lon": 37.625538,
+          "lat": 55.758801
+        }
+      },
+      {
+        "fullName": "Moscow Suites Apartments Arbat, Moscow, Russia",
+        "locationId": 12153,
+        "label": "Moscow Suites Apartments Arbat",
+        "locationName": "Moscow, Russia",
+        "id": "333581",
+        "_score": 333450.0,
+        "location": {
+          "lon": 37.59161,
+          "lat": 55.753281
+        }
+      }
+    ]
+  }
+}
