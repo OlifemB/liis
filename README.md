@@ -3,7 +3,7 @@
 ### Install
 
 ```
- npm i
+ npm install
 ```
 
 ### Dev
